@@ -13,5 +13,7 @@ This project allowed us to apply JavaScript logic for handling game mechanics, s
 while working together as a team to design a polished and engaging user interface using HTML and CSS.
 
 Website:
-https://rami3-bit.github.io/HangMan-FED24/
+https://coffeecodestudio.github.io/HangMan-FED24/
+
+<☕>
 
